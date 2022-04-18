@@ -1,0 +1,24 @@
+{
+  "name": "rizkykurniawan",
+  "version": "1.0.0",
+  "description": "Describing who is Rizky Kurniawan",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kykurniawan/npx-rizkykurniawan.git"
+  },
+  "keywords": [
+    "npx",
+    "command"
+  ],
+  "author": "Rizky Kurniawan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kykurniawan/npx-rizkykurniawan/issues"
+  },
+  "homepage": "https://github.com/kykurniawan/npx-rizkykurniawan#readme"
+}
