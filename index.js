@@ -8,9 +8,11 @@ console.table({
     linkedin: 'https://www.linkedin.com/in/kykurniawan',
     youtube: 'https://www.youtube.com/kykurniawan',
     github: 'https://github.com/kykurniawan',
-    gitlab: 'https://gitlab.com/kykurniawan',
     npmjs: 'https://www.npmjs.com/~kykurniawan',
+    gitlab: 'https://gitlab.com/kykurniawan',
+    medium: 'https://kykurniawan.medium.com',
+    codepen: 'https://codepen.io/kykurniawan',
+    gitbook: 'https://kykurniawan.gitbook.io/kykurniawan',
     packagist: 'https://packagist.org/users/kykurniawan',
     dockerhub: 'https://hub.docker.com/u/kykurniawan',
-    codepen: 'https://codepen.io/kykurniawan',
 })
